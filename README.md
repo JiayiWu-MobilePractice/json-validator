@@ -51,4 +51,4 @@ The script will output whether the file contains valid JSON or not. If the file 
 
 ## License
 
-This project is licensed under the MIT License.
+This project is licensed under the ISC License.
